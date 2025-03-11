@@ -11,7 +11,7 @@
 
 ## Installation
 ### [Creator Marketplace 🖱️](https://create.roblox.com/store/asset/73182638914598/Attribute-Clipboard)
-_The Creator Marketplace is the easiest way to install Blueprint. You'll get access to automatic updates and be able to use the plugin anywhere you have Roblox Studio installed._
+_The Creator Marketplace is the easiest way to install Attribute Clipboard. You'll get access to automatic updates and be able to use the plugin anywhere you have Roblox Studio installed._
 
 ### Manual Installation
 1. Download the plugin (.rbxmx) file from [Releases](https://github.com/OssieNomae/AttributeClipboard/releases)
