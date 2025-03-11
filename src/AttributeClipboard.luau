@@ -2,7 +2,7 @@
 --[[
 	License: Licensed under the MIT License
 	Version: 1.0.0
-	Github: 
+	Github: https://github.com/OssieNomae/AttributeClipboard
 	Authors:
 		OssieNomae - 2024
 
